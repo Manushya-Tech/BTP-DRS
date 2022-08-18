@@ -1,0 +1,10 @@
+https://github.com/JY-Yoon/RNN-Implementation-using-NumPy/blob/master/RNN%20Implementation%20using%20NumPy.ipynb
+
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
+
+https://towardsdatascience.com/deep-learning-for-dynamics-the-intuitions-20a67942dfbc
+
+Pytorch - 
+https://www.youtube.com/c/PythonEngineer
